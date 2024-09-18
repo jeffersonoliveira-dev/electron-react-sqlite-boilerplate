@@ -1,6 +1,8 @@
 # electron-react-sqlite-boilerplate
 
-An Electron application with React and TypeScript
+An Boilerplate using Electron application with React with TypeScript and sqlite3 
+
+it doesnt need to be compiled with binaries.
 
 ## Recommended IDE Setup
 
